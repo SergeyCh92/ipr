@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "IPR: start",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/ipr_service/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
